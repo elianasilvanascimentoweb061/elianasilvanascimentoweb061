@@ -19,27 +19,56 @@ Tenho conhecimentos em HTML, CSS e Python e atualmente estou estudando JavaScrip
 <p alinhar="centro">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Citação" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"eCategory=programming">
 </p>
-<br>
+
+------
+🎓 Formação
+
+💻 Engenharia de Software
+UNINTER • Em andamento
+
+💻 Técnico em Informática
+IFMA • Concluído
+
+------
+
 🛠 Habilidades
 <br>
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&logoColor=A855F7)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=A855F7)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D0D0D?style=for-the-badge&logo=HTML5&logoColor=A855F7)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D0D0D?style=for-the-badge&logo=CSS3&logoColor=A855F7)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D0D0D?style=for-the-badge&logo=microsoft-excel&logoColor=A855F7)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A855F7)&nbsp;
 
-<br>
+
 🌱 Atualmente estudando
 <br>
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D0D0D?style=for-the-badge&logo=bootstrap&logoColor=A855F7)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logoColor=A855F7)&nbsp;
 
+
+🔧 Ferramentas
 <br>
-⚙️ IDEs
-<br>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=A855F7)&nbsp;
-![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-idea&logoColor=00000)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=A855F7)&nbsp;
+![Intellij](https://img.shields.io/badge/-Intellij-0D0D0D?style=for-the-badge&logo=intellij-idea&logoColor=A855F7)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-0D0D0D?style=for-the-badge&logo=WordPress&logoColor=A855F7)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=Canva&logoColor=A855F7)&nbsp;
 
+🔗 Onde me encontrar
+<div>
+<a href="https://github.com/elianasilvanascimentoweb061">
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A855F7" />
+</a>
+	
+<a href="https://www.linkedin.com/in/eliana-da-silva-nascimento-728121250/">
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
+</a>
+</div>
 
+<div align="center">
+
+💜 Obrigada por visitar meu perfil!
+
+“Aprendendo hoje, construindo o amanhã.” ✨
+
+</div>
