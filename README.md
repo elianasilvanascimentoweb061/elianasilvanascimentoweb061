@@ -6,9 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<p align="left">
 💜 Sobre mim
-
 Sou estudante de Engenharia de Software e técnica em Informática, com interesse em desenvolvimento de software e desenvolvimento web.
 
 Tenho conhecimentos em HTML, CSS e Python e atualmente estou estudando JavaScript e MySQL, buscando ampliar meus conhecimentos e desenvolver projetos cada vez mais completos.
