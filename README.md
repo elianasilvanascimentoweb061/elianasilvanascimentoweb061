@@ -19,7 +19,7 @@ Tenho conhecimentos em HTML, CSS e Python e atualmente estou estudando JavaScrip
 <p alinhar="centro">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Citação" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"eCategory=programming">
 </p>
-
+<br>
 🛠 Habilidades
 <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -29,17 +29,17 @@ Tenho conhecimentos em HTML, CSS e Python e atualmente estou estudando JavaScrip
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
+<br>
 🌱 Atualmente estudando
 <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 
+<br>
 ⚙️ IDEs
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=A855F7)&nbsp;
 ![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-idea&logoColor=00000)&nbsp;
-
 
 
