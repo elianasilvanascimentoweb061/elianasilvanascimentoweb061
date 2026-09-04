@@ -43,7 +43,6 @@ IFMA • Concluído
 
 🌱 Atualmente estudando
 ---
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D0D0D?style=for-the-badge&logo=bootstrap&logoColor=A855F7)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logoColor=A855F7)&nbsp;
 <p></p><br>
 
@@ -51,9 +50,8 @@ IFMA • Concluído
 🔧 Ferramentas
 ---
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=A855F7)&nbsp;
-![Intellij](https://img.shields.io/badge/-Intellij-0D0D0D?style=for-the-badge&logo=intellij-idea&logoColor=A855F7)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-0D0D0D?style=for-the-badge&logo=WordPress&logoColor=A855F7)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=Canva&logoColor=A855F7)&nbsp;
+![Wordpress](https://img.shields.io/badge/Wordpress-0D0D0D?style=for-the-badge&logo=wordpress&logoColor=A855F7)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=canva&logoColor=A855F7)&nbsp;
 <p></p><br>
 
 
