@@ -43,7 +43,8 @@ IFMA • Concluído
 
 🌱 Atualmente estudando
 ---
-![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logoColor=A855F7)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=A855F7)&nbsp;
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logoColor=A855F7)&nbsp;
 <p></p><br>
 
 
