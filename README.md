@@ -68,7 +68,7 @@ IFMA • Concluído
 <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
 </a>
 
-<a href="malito:elianasilvanascimentoweb@gmail.com">
+<a href="mailto:elianasilvanascimentoweb@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A855F7" />
 </a>
 </div><br>
