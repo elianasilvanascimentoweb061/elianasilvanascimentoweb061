@@ -67,6 +67,10 @@ IFMA • Concluído
 <a href="https://www.linkedin.com/in/eliana-da-silva-nascimento-728121250/">
 <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
 </a>
+
+<a href="malito:elianasilvanascimentoweb@gmail.com">
+![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A855F7)
+</a>
 </div><br>
 
 <div align="center">
