@@ -51,9 +51,15 @@ IFMA • Concluído
 🔧 Ferramentas
 ---
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=A855F7)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-0D0D0D?style=for-the-badge&logo=pycharm&logoColor=A855F7)&nbsp;
 ![Wordpress](https://img.shields.io/badge/Wordpress-0D0D0D?style=for-the-badge&logo=wordpress&logoColor=A855F7)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=canva&logoColor=A855F7)&nbsp;
 <p></p><br>
+
+
+💻 Sistemas Operacionais
+---
+![Windows](https://img.shields.io/badge/Windows-0D0D0D?style=for-the-badge&logo=windows&logoColor=A855F7)&nbsp;
 
 
 🔗 Onde me encontrar
